@@ -1,0 +1,29 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "317D6FF1DCD590054C93816700028C3F28AB2F72" : 9223372036854775807,
+    "049E135D6660F590A83EA11C0817683929A2AE7B" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "720F7654-4C40-49DA-96DC-128D05E77881",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "317D6FF1DCD590054C93816700028C3F28AB2F72" : "..\/..",
+    "049E135D6660F590A83EA11C0817683929A2AE7B" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "EmojiLand2",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "EmojiLand2.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/hrg100\/Emoji-Dictionary-Practice.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "049E135D6660F590A83EA11C0817683929A2AE7B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/hrg100\/emoji-dictionary.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "317D6FF1DCD590054C93816700028C3F28AB2F72"
+    }
+  ]
+}
